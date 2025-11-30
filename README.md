@@ -1,1 +1,3 @@
-# MAJOR-PROJECT-CSE-YEAR-1
+A simple C programming project called the Student Marks System was created to handle and store student academic data.  A student's name, SAP ID, phone number, email, number of topics, and grades can all be entered into the program.  Multiple student records can be stored, total and average marks can be calculated, grades can be assigned, and students can be found using their SAP ID.  Additionally, the project has a function that allows all student records to be saved into a text file for future use.
+
+Understanding basic C concepts such as structures, arrays, strings, functions, loops, conditional expressions, and file handling is aided by this project.  First-year students learning fundamental programming and data processing can benefit from the system's menu-driven design and ease of use.
